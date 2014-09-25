@@ -10,3 +10,5 @@ Here are some quick links to some highly relevant wiki articles:
 * [Simulator Architecture](https://github.com/PersoSim/PersoSim/wiki/Simulator-Architecture)
 * [Development Guidelines](https://github.com/PersoSim/PersoSim/wiki/Development-Guidelines)
  * [Definition of Done](https://github.com/PersoSim/PersoSim/wiki/Definition-of-Done)
+
+If you are interested in a short overview of PeroSim, you can find an article [here](https://silicontrust.files.wordpress.com/2014/06/sn_the_vault_14_20140613_screen.pdf) here published in the magazine VAULT.
