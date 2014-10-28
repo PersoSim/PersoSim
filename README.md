@@ -1,7 +1,7 @@
 PersoSim
 ========
 
-In this repository we release some usefull information concerning PersoSim. 
+In this repository we release some useful information concerning PersoSim. 
 Most of the contents are covered by corresponding articles in the [wiki](https://github.com/PersoSim/PersoSim/wiki "PersoSim Wiki").
 
 Here are some quick links to some highly relevant wiki articles:
